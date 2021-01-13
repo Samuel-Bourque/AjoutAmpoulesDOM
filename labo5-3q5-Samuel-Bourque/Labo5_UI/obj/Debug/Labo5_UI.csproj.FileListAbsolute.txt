@@ -1,0 +1,17 @@
+C:\Users\1232291\Source\Repos\labo5-3q5-Samuel-Bourque\Labo5_UI\bin\Debug\residence.xml
+C:\Users\1232291\Source\Repos\labo5-3q5-Samuel-Bourque\Labo5_UI\bin\Debug\Labo5_UI.exe.config
+C:\Users\1232291\Source\Repos\labo5-3q5-Samuel-Bourque\Labo5_UI\bin\Debug\Labo5_UI.exe
+C:\Users\1232291\Source\Repos\labo5-3q5-Samuel-Bourque\Labo5_UI\bin\Debug\Labo5_UI.pdb
+C:\Users\1232291\Source\Repos\labo5-3q5-Samuel-Bourque\Labo5_UI\obj\Debug\MainWindow.g.cs
+C:\Users\1232291\Source\Repos\labo5-3q5-Samuel-Bourque\Labo5_UI\obj\Debug\App.g.cs
+C:\Users\1232291\Source\Repos\labo5-3q5-Samuel-Bourque\Labo5_UI\obj\Debug\Labo5_UI_Content.g.cs
+C:\Users\1232291\Source\Repos\labo5-3q5-Samuel-Bourque\Labo5_UI\obj\Debug\Labo5_UI_MarkupCompile.cache
+C:\Users\1232291\Source\Repos\labo5-3q5-Samuel-Bourque\Labo5_UI\obj\Debug\Labo5_UI_MarkupCompile.lref
+C:\Users\1232291\Source\Repos\labo5-3q5-Samuel-Bourque\Labo5_UI\obj\Debug\MainWindow.baml
+C:\Users\1232291\Source\Repos\labo5-3q5-Samuel-Bourque\Labo5_UI\obj\Debug\Labo5_UI.g.resources
+C:\Users\1232291\Source\Repos\labo5-3q5-Samuel-Bourque\Labo5_UI\obj\Debug\Labo5_UI.Properties.Resources.resources
+C:\Users\1232291\Source\Repos\labo5-3q5-Samuel-Bourque\Labo5_UI\obj\Debug\Labo5_UI.csproj.GenerateResource.cache
+C:\Users\1232291\Source\Repos\labo5-3q5-Samuel-Bourque\Labo5_UI\obj\Debug\Labo5_UI.csproj.CoreCompileInputs.cache
+C:\Users\1232291\Source\Repos\labo5-3q5-Samuel-Bourque\Labo5_UI\obj\Debug\Labo5_UI.exe
+C:\Users\1232291\Source\Repos\labo5-3q5-Samuel-Bourque\Labo5_UI\obj\Debug\Labo5_UI.pdb
+C:\Users\1232291\Source\Repos\labo5-3q5-Samuel-Bourque\Labo5_UI\obj\Debug\Labo5_UI.csprojAssemblyReference.cache
